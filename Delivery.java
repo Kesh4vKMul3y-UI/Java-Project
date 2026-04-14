@@ -92,7 +92,7 @@ class Order {
 }
 
 // Main Class to run the system
-public class Project {
+public class Delivery {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
